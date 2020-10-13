@@ -18,7 +18,7 @@ The hyperparameters for the learning algoritm are as follow:
 Below the plot of rewards per episode illustrates that the agent was able to receive an average reward (over 100 episodes) of at least +13.  
 ![Score](score_over_time.png)
 
-The goal for the training phase was to reach a score of +16. This was achieved after 948 episodes.
+The goal for the training phase was to reach a score of +16. This was achieved after 848 episodes.
 
 ## Ideas for future work
 The top ideas for improvement are implementing:  
