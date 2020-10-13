@@ -61,7 +61,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 6. Launch the jupyter notebook
 ```bash
-jupyter notebook Navigation.ipynb"
+jupyter notebook Navigation.ipynb
 ```
 
 ### Instructions
