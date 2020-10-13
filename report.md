@@ -20,6 +20,8 @@ Below the plot of rewards per episode illustrates that the agent was able to rec
 
 The goal for the training phase was to reach a score of +16. This was achieved after 848 episodes.
 
+You can watch on Youtube my monkey collecting bananas according to my learnt policy:  https://youtu.be/rS7AIoTHbnA
+
 ## Ideas for future work
 The top ideas for improvement are implementing:  
 1 - a prioritized experience replay buffer.  
