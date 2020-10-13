@@ -23,4 +23,4 @@ The goal for the training phase was to reach a score of +16. This was achieved a
 ## Ideas for future work
 The top ideas for improvement are implementing:  
 1 - a prioritized experience replay buffer.  
-2 - a duelling architecture
+2 - a duelling network architecture
